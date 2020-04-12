@@ -1,8 +1,11 @@
 #print("hello world hamady welcome\n")
-#print("Finally!!!!!\n")
+
 #it-s me again VCS through pycharm
 def ham(msg):
     print(msg)
+
+def ham2():
+    print("nothing here")
 
 ham("ham function that prints the message msg")
 
